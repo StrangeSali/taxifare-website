@@ -3,9 +3,6 @@ import requests
 import pandas as pd
 from datetime import datetime
 from geopy.geocoders import Nominatim
-import folium
-from streamlit_folium import st_folium
-
 
 '''
 # 🚕 TaxiFareModel Fares
